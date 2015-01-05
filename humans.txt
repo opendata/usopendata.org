@@ -1,0 +1,3 @@
+{% for author in site.authors %}
+  {{ author.name }} -- https://twitter.com/{{ author.twitter }}
+{% endfor %}

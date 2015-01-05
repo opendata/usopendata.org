@@ -1,0 +1,27 @@
+{% include top.html %}
+
+<body class="wrap">
+
+  {% include header.html %}
+  {% assign author = site.authors[page.author] %}
+
+  <article class="single-post">
+
+    <h2><a href="{{ page.url }}" title="Permalink">{{ page.title }}</a></h2>
+
+    <div class="post-meta">
+      <span>{{ page.date | date_to_long_string }}</span>
+      <a href="https://github.com/{{ author.github }}" class="post-author">{{ author.name }}</a>
+    </div>
+    <br \>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+
+  {% include footer.html %}
+
+</body>
+</html>

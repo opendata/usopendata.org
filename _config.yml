@@ -1,0 +1,27 @@
+markdown:      kramdown
+name:          U.S. Open Data Institute
+url:           http://usodi.org
+permalink:     pretty
+paginate:      5
+paginate_path: "blog/page:num"
+
+exclude: [".gitignore", "README.md", "_drafts"]
+
+# https://gist.github.com/ravasthi/1834570
+authors:
+  waldoj:
+    name: Waldo Jaquith
+    twitter: waldojaquith
+    github: waldoj
+  maxogden:
+    name: Max Ogden
+    twitter: maxogden
+    github: maxogden
+  compleatang:
+    name: Casey Kuhlman
+    twitter: compleatang
+    github: compleatang
+  GovInTrenches:
+    name: Christopher Whitaker
+    twitter: GovInTrenches
+    github: GovInTrenches

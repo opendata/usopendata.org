@@ -1,0 +1,15 @@
+<article>
+  {% assign author = site.authors[post.author] %}
+	<h2><a href="{{ post.url }}" title="Permalink">{{ post.title }}</a></h2>
+
+	<div class="post-meta">
+		<span>{{ post.date | date_to_long_string }}</span>
+		<a href="https://github.com/{{ author.github }}" class="post-author">{{ author.name }}</a>
+	</div>
+  <br>
+
+	<div class="post-content">
+		{{ post.content }}
+	</div>
+
+</article>
