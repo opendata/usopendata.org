@@ -3,9 +3,9 @@ layout: page
 title: Training
 ---
 
-# ODI Open Data Training
+# Open Data Training
 
-The U.S. Open Data Institute does not offer any open data training directly, because ODI member, [the Open Data Institute of North Carolina](http://theodinc.org) (ODI NC), does. They’ve  redeveloped the UK ODI
+The U.S. Open Data does not offer any open data training. However, [the Open Data Institute of North Carolina](http://theodinc.org) (ODI NC), does. They’ve  redeveloped the UK ODI
 training courses to suit the U.S. market, using accredited, [ODI-Registered Trainers](http://theodi.org/what-is-an-odi-registered-trainer) to assure quality of training. This is the only
 ODI training available in the United States.
 
