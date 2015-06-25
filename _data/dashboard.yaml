@@ -1,0 +1,42 @@
+- title: CKAN Exporter
+  description: Extending CKAN to support exporting all data, instead of just metadata.
+  status: shipped
+  contractor: boxkite, Inc.
+  repository: https://github.com/ckan/ckanapi-exporter
+  blog_entry: 
+- title: CKAN Multisite
+  description: An interface for creating and managing Dockerized CKAN instances.
+  status: alpha
+  contractor: boxkite, Inc.
+  repository: https://github.com/datacats/ckan-multisite/
+  blog_entry: https://usopendata.org/2015/02/18/ckan-multisite/
+- title: Let Me Get That Data For You
+  description: Catalogs the machine-readable data on a given domain name.
+  status: shipped
+  contractor: Silicon Valley Software Group
+  repository: https://github.com/opendata/lmgtdfy/
+  blog_entry: https://usopendata.org/2015/02/18/lmgtdfy/
+  website: http://lmgtdfy.usopendata.org/
+- title: dat
+  description: A version-controlled, decentralized data tool for collaboration between data people and data systems.
+  status: beta
+  repository: https://github.com/maxogden/dat/
+  blog_entry: https://usopendata.org/2015/04/03/sloan/
+  website: http://dat-data.com/
+- title: Legal Synonyms
+  description: A semantic analysis tool to generate synonym.txt files for Solr.
+  status: alpha
+  repository: https://github.com/opendata/Legal-Synonyms
+  blog_entry: https://usopendata.org/2014/10/10/legal_synonyms/
+- title: OpenAddresses Bounty
+  description: Paying people, per pull request, to add regional address files to OpenAddresses.
+  status: shipped
+  repository: https://github.com/openaddresses/openaddresses/
+  blog_entry: https://usopendata.org/2014/08/01/openaddresses/
+  website: http://openaddresses.io/
+- title: The Roosevelt Schema
+  description: Rendering hunting and fishing regulations as open data.
+  status: alpha
+  repository: https://github.com/opendata/Hunting-and-Fishing/
+  blog_entry: https://usopendata.org/2014/04/08/hunting/
+  website: http://rooseveltschema.org/
