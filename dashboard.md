@@ -5,16 +5,14 @@ title: Dashboard || U.S. Open Data
 
 # Project Dashboard
 
-<ul>
 {% for project in site.data.dashboard %}
-  <li>
-    {{ project.title }}
+  <div>
+    <h2>{{ project.title }}</h2>
     {{ project.description }}
-    {{ project.status }}
-    {{ project.contractor }}
-    {{ project.repository }}
-    {{ project.blog_entry }}
-    {{ project.website }}
-  </li>
+    Status: {{ project.status }}
+    Contractor: {{ project.contractor }}
+    <a href="{{ project.repository }}">Repository</a>
+    <a href="{{ project.blog_entry }}">Blog Entry</a>
+    <a href="{{ project.website }}">Website</a>
+  </div>
 {% endfor %}
-</ul>
