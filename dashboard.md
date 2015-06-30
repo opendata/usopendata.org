@@ -11,19 +11,19 @@ title: Dashboard || U.S. Open Data
     <p>{{ project.description }}</p>
     <p>Status: {{ project.status }}</p>
    
-    {% if project.contractor == blank %}
+    {% if project.contractor != null %}
     <p>Contractor: {{ project.contractor }}</p>
     {% endif %}
     
-    {% if project.repository == blank %}
+    {% if project.repository != null %}
     <p><a href="{{ project.repository }}">Repository</a>
     {% endif %}
    
-    {% if project.blog_entr == blank %}
+    {% if project.blog_entr != null %}
     | <a href="{{ project.blog_entry }}">Blog Entry</a>
     {% endif %}
    
-    {% if project.website == blank %}
+    {% if project.website != null %}
     | <a href="{{ project.website }}">Website</a></p>
     {% endif %}
     
