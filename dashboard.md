@@ -13,19 +13,19 @@ title: Dashboard || U.S. Open Data
    
     {% if project.contractor != '' %}
     <p>Contractor: {{ project.contractor }}</p>
-    { endif %}
+    {% endif %}
     
     {% if project.repository != '' %}
     <p><a href="{{ project.repository }}">Repository</a>
-    { endif %}
+    {% endif %}
    
     {% if project.blog_entr != '' %}
     | <a href="{{ project.blog_entry }}">Blog Entry</a>
-    { endif %}
+    {% endif %}
    
     {% if project.website != '' %}
     | <a href="{{ project.website }}">Website</a></p>
-    { endif %}
+    {% endif %}
     
   </div>
 {% endfor %}
