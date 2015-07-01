@@ -92,7 +92,7 @@ article.single-post {
   display: inline;
   list-style-type: none;
 }
-  #dashboard li li:before {
+  #dashboard li + li:before {
     content: " | ";
   }
 
