@@ -88,6 +88,14 @@ article.single-post {
   background: #2b3848;
 }
 
+#dashboard li {
+  display: inline;
+  list-style-type: none;
+}
+  #dashboard li li:before {
+    content: " | ";
+  }
+
 @media screen and (max-width: 767px) {
   article {
     max-width: 75%;
