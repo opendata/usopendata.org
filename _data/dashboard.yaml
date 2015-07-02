@@ -38,6 +38,12 @@
   repository: https://github.com/openaddresses/openaddresses/
   blog_entry: https://usopendata.org/2014/08/01/openaddresses/
   website: http://openaddresses.io/
+- title: Data Seal
+  description: A data-authentication service to facilitate government compliance with the Uniform Electronic Legal Material Act.
+  status: shipped
+  contractor: Silicon Valley Software Group
+  repository: https://github.com/unitedstates/authentication/
+  website: http://svsg.co/data-seal/
 - title: The Roosevelt Schema
   description: Rendering hunting and fishing regulations as open data.
   status: alpha
