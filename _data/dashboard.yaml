@@ -31,6 +31,11 @@
   repository: https://github.com/maxogden/dat/
   blog_entry: https://usopendata.org/2015/04/03/sloan/
   website: http://dat-data.com/
+- title: How to Publish Open Data
+  description: A practical guide to opening data, for government employees whose job it is to make that happen.
+  status: alpha
+  repository: https://github.com/opendata/how-to/
+  website: http://how-to.usopendata.org/
 - title: Legal Synonyms
   description: A semantic analysis tool to generate synonym.txt files for Solr.
   status: alpha
