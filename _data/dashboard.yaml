@@ -53,6 +53,7 @@
   contractor: Silicon Valley Software Group
   repository: https://github.com/unitedstates/authentication/
   website: http://svsg.co/data-seal/
+  blog_entry: https://usopendata.org/2015/07/28/data-seal/
 - title: The Roosevelt Schema
   description: Rendering hunting and fishing regulations as open data.
   status: alpha
