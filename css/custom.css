@@ -1,3 +1,11 @@
+.post-content code {
+  font-family: Courier new, sans-serif monospace;
+}
+
+.post-content ul li {
+  list-style-type: disc;
+}
+
 .site-header {
   background-position: 50% 0px;
   background-image: url("../img/boston.jpg");
