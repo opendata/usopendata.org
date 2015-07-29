@@ -29,7 +29,7 @@
   description: A version-controlled, decentralized data tool for collaboration between data people and data systems.
   status: beta
   repository: https://github.com/maxogden/dat/
-  blog_entry: https://usopendata.org/2015/04/03/sloan/
+  blog_entry: https://usopendata.org/2015/07/29/dat-beta/
   website: http://dat-data.com/
 - title: How to Publish Open Data
   description: A practical guide to opening data, for government employees whose job it is to make that happen.
