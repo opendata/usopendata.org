@@ -1,5 +1,6 @@
 .project {
 	border-top: 1px solid #000;
+	clear: left;
 }
 	.status {
 		display: inline-block;
@@ -23,10 +24,10 @@
 		}
 .project > div:nth-of-type(2) {
 	float: left;
-	width: 48.82117%
-	margin-right: 2.35765%
+	width: 48.82117%;
+	margin-right: 2.35765%;
 }
 .project > div:nth-of-type(3) {
 	float: left;
-	width: 48.82117%
+	width: 48.82117%;
 }
