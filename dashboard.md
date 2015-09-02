@@ -14,7 +14,7 @@ We have projects underway to help to build the capacity of open data. Here is th
 {% for project in site.data.dashboard %}
   <div class="project">
     <div>
-   		<h2>{{ project.title }} <span class="status">{{ project.status }}</span></h2>
+   		<h2>{{ project.title }} <span class="status {{ project.status }}">{{ project.status }}</span></h2>
     </div>
     <div>
 	    <p>{{ project.description }}</p>
