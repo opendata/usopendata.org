@@ -5,12 +5,14 @@
 - title: CKAN Exporter
   description: Extending CKAN to support exporting all data, instead of just metadata.
   status: shipped
+  contractor: DataCats
   contractor_url: https://datacats.com/
   repository: https://github.com/ckan/ckanapi-exporter
   blog_entry: 
 - title: CKAN Multisite
   description: An interface for creating and managing Dockerized CKAN instances.
   status: alpha
+  contractor: DataCats
   contractor_url: https://datacats.com/
   repository: https://github.com/datacats/ckan-multisite/
   blog_entry: https://usopendata.org/2015/02/18/ckan-multisite/
