@@ -1,0 +1,32 @@
+.project {
+	border-top: 1px solid #000;
+}
+	.status {
+		display: inline-block;
+		float: right;
+		font-weight: bold;
+		font-size: .7em;
+		color: white;
+		padding: 5px 10px;
+	}
+		status+planning {
+			background-color: gray;
+		}
+		status+alpha {
+			background-color: lightblue;
+		}
+		status+beta {
+			background-color: blue;
+		}
+		status+shipped {
+			background-color: green;
+		}
+.project > div:nth-of-type(2) {
+	float: left;
+	width: 48.82117%
+	margin-right: 2.35765%
+}
+.project > div:nth-of-type(3) {
+	float: left;
+	width: 48.82117%
+}
