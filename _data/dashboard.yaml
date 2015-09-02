@@ -5,19 +5,20 @@
 - title: CKAN Exporter
   description: Extending CKAN to support exporting all data, instead of just metadata.
   status: shipped
-  contractor: boxkite, Inc.
+  contractor_url: https://datacats.com/
   repository: https://github.com/ckan/ckanapi-exporter
   blog_entry: 
 - title: CKAN Multisite
   description: An interface for creating and managing Dockerized CKAN instances.
   status: alpha
-  contractor: boxkite, Inc.
+  contractor_url: https://datacats.com/
   repository: https://github.com/datacats/ckan-multisite/
   blog_entry: https://usopendata.org/2015/02/18/ckan-multisite/
 - title: Let Me Get That Data For You
   description: Catalogs the machine-readable data on a given domain name.
   status: shipped
   contractor: Silicon Valley Software Group
+  contractor_url: http://svsg.co/
   repository: https://github.com/opendata/lmgtdfy/
   blog_entry: https://usopendata.org/2015/02/18/lmgtdfy/
   website: http://lmgtdfy.usopendata.org/
@@ -51,6 +52,7 @@
   description: A data-authentication service to facilitate government compliance with the Uniform Electronic Legal Material Act.
   status: shipped
   contractor: Silicon Valley Software Group
+  contractor_url: http://svsg.co/
   repository: https://github.com/unitedstates/authentication/
   website: http://svsg.co/data-seal/
   blog_entry: https://usopendata.org/2015/07/28/data-seal/

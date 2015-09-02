@@ -22,7 +22,7 @@ We have projects underway to help to build the capacity of open data. Here is th
    
 	<div>
 	    {% if project.contractor != null %}
-	    <p>Contractor: {{ project.contractor }}</p>
+	    <p>Contractor: <a href="{{ project.contractor_url }}">{{ project.contractor }}</a></p>
 	    {% endif %}
 	    
 	    <ul>
