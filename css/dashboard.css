@@ -10,16 +10,16 @@
 		color: white;
 		padding: 5px 10px;
 	}
-		status + planning {
+		.status + .planning {
 			background-color: gray;
 		}
-		status + alpha {
+		.status + .alpha {
 			background-color: lightblue;
 		}
-		status + beta {
+		.status + .beta {
 			background-color: blue;
 		}
-		status + shipped {
+		.status + .shipped {
 			background-color: green;
 		}
 .project > div:nth-of-type(2) {
