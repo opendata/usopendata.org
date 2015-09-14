@@ -9357,7 +9357,8 @@ input::-moz-focus-inner {
   }
 }
 .signup-form .btn-side {
-  width: 50%;
+  padding: 20px;
+  width: auto;
   background-color: transparent;
   border: 5px solid #fff;
 }
