@@ -16,7 +16,7 @@
   contractor_url: https://datacats.com/
   repository: https://github.com/datacats/ckan-multisite/
   blog_entry: http://usopendata.org/2015/09/14/ckan-multisite/
-- title: Free Government Data Repositoy
+- title: Free Government Data Repository
   description: A to-be-named, free, time-limited CKAN host powered by CKAN Multisite.
   status: planning
 - title: Let Me Get That Data For You
