@@ -1,7 +1,8 @@
 - title: U.S. States Data Census
   description: A census of key open data holdings by states throughout the U.S.
-  status: planning
-  repository: https://github.com/sunlightpolicy/State-Open-Data-Census/
+  status: beta
+  repository: https://github.com/opendata/Open-Data-Census/
+  blog_entry: https://usopendata.org/2015/11/16/census/
 - title: CKAN Exporter
   description: Extending CKAN to support exporting all data, instead of just metadata.
   status: shipped
