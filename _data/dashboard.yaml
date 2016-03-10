@@ -1,3 +1,7 @@
+- title: Open Open Data Census
+  description: A software package for conducting open data censuses.
+  status: alpha
+  repository: https://github.com/codeforamerica/OpenOpenDataCensus/
 - title: U.S. States Data Census
   description: A census of key open data holdings by states throughout the U.S.
   status: shipped
