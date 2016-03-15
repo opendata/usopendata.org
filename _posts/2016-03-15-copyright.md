@@ -16,7 +16,7 @@ Of the 356 extant, surveyed datasets, 171 (or 48%) are restricted by claims of c
 
 ### Datasets without restrictions
 
-For those datasets without restrictions, overwhelmingly that’s because the site is silent on the matter of copyright. We tally that as consent that the data is in the public domain. Note that this is the opposite of private works, for which no statement of copyright is required. This is because works of government are in the public domain. (Despite this norm, [many states claim copyright anyway](http://copyright.lib.harvard.edu/states/). As a matter of principle, we hold that government does not have this right—that all public works are in the public domain.)
+For those datasets without restrictions, overwhelmingly that’s because the site is silent on the matter of copyright. We tally that as consent that the data is in the public domain. Note that this is the opposite of private works, for which no statement of copyright is required. This is because works of government are generally in the public domain. ([Some states hold that they may claim copyright](http://copyright.lib.harvard.edu/states/), and some do not, with significant nuance between those two extremes.)
 
 In rare cases, there is a direct disclaimer of copyright. For example, the datasets in [Washington D.C.’s repository](http://opendata.dc.gov/) link to [a copyright page](http://dc.gov/page/terms-and-conditions-use-district-data) that puts all data in the public domain by default:
 
@@ -42,6 +42,6 @@ Here are three things that governments (state and otherwise) can do to address t
 
 1. Claw back claims of copyright on data pages. If the site’s footer claims copyright, explicitly disclaim that copyright, affirmatively placing that data in the public domain (or, better, published under a [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license—“public domain” is not meaningful to users of that data outside of the United States).
 1. When publishing data within repository software, use its built-in metadata functionality to specify that the data is public domain.
-1. Remove that troublesome copyright footer entirely. Governments don’t get to claim copyright, over data or otherwise.
+1. Remove that troublesome copyright footer entirely. Just because a governments _can_ claim copyright doesn’t mean that your government needs to, over data or otherwise.
 
 Governments have to end the practice of publishing data while simultaneously prohibiting people from doing anything with it.
