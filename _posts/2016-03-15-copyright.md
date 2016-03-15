@@ -44,4 +44,4 @@ Here are three things that governments (state and otherwise) can do to address t
 1. When publishing data within repository software, use its built-in metadata functionality to specify that the data is public domain.
 1. Remove that troublesome copyright footer entirely. Just because a governments _can_ claim copyright doesn’t mean that your government needs to, over data or otherwise.
 
-Governments have to end the practice of publishing data while simultaneously prohibiting people from doing anything with it.
+Governments have to end the practice of publishing data while simultaneously prohibiting people from doing anything with it, or risk fatally hobbling their open data efforts.
