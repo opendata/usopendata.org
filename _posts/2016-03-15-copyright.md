@@ -22,7 +22,7 @@ In rare cases, there is a direct disclaimer of copyright. For example, the datas
 
 > Unless otherwise noted, the data on the Sites is public domain and made available with a [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode) dedication. In short, the District waives all rights to the data worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the data, even for commercial purposes, all without asking permission. The District makes no warranties about the data, and disclaims liability for all uses of the data, to the fullest extent permitted by applicable law.
 
-[D.C.’s copyright policy is imperfect](http://dc.gov/page/terms-and-conditions-use-district-data), but it’s also the best effort made by any U.S. state.
+[D.C.’s copyright policy is imperfect](https://razor.occams.info/blog/2014/10/29/dc-updates-its-open-data-terms-of-use-round-2/), but it’s also the best effort made by any U.S. state.
 
 ### Copyrighted datasets
 
