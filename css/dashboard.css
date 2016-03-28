@@ -2,14 +2,20 @@
 	border-top: 1px solid #000;
 	clear: left;
 }
+	h2 {
+		width: 80%;
+		float: left;
+		font-size: 1.75em;
+	}
 	.status {
+		width: 18%;
 		display: inline-block;
 		float: right;
+		font-size: 1.25em;
 		font-weight: bold;
-		font-size: .5em;
 		color: white;
-		padding: 0 5px;
-		margin-top: -11.466px;
+		padding: 2px 5px;
+		text-align: center;
 	}
 		.status.planning {
 			background-color: gray;
@@ -23,6 +29,9 @@
 		.status.shipped {
 			background-color: green;
 		}
+	.project p {
+		line-height: 1.5em;
+	}
 .project > div:nth-of-type(2) {
 	float: left;
 	width: 48.82117%;

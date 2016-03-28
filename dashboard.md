@@ -14,7 +14,8 @@ We have projects underway to help to build the capacity of open data. Here is th
 {% for project in site.data.dashboard %}
   <div class="project">
     <div>
-   		<h2>{{ project.title }} <span class="status {{ project.status }}">{{ project.status }}</span></h2>
+   		<h2>{{ project.title }}</h2>
+   		<div class="status {{ project.status }}">{{ project.status }}</div>
     </div>
     <div>
 	    <p>{{ project.description }}</p>
@@ -27,15 +28,15 @@ We have projects underway to help to build the capacity of open data. Here is th
 	    
 	    <ul>
 	    {% if project.repository != null %}
-	    <p><a href="{{ project.repository }}">Repository</a></p>
+	    <li><a href="{{ project.repository }}">Repository</a></li>
 	    {% endif %}
 	   
 	    {% if project.blog_entry != null %}
-	    <p><a href="{{ project.blog_entry }}">Blog Entry</a></p>
+	    <li><a href="{{ project.blog_entry }}">Blog Entry</a></li>
 	    {% endif %}
 	   
 	    {% if project.website != null %}
-	    <p><a href="{{ project.website }}">Website</a></p>
+	    <li><a href="{{ project.website }}">Website</a></li>
 	    {% endif %}
 	    </ul>
     </div>
