@@ -1,6 +1,9 @@
 body , p{
   font-family: Source Sans Pro, sans-serif;
 }
+footer {
+  clear: both;
+}
 .post-content code {
   font-family: Courier new, sans-serif monospace;
 }
