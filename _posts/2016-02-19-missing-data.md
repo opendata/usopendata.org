@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Hard Number on Incomplete Repositories'
-author: waldo
+author: waldoj
 ---
 
 Last year, I wrote that [incomplete data repositories should be considered harmful](https://usopendata.org/2015/03/30/harmful/):

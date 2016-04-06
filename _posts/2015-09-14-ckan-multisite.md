@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CKAN Multisite Now Available'
-author: waldo
+author: waldoj
 ---
 
 Today, U.S. Open Data is happy to announce the immediate availability of [CKAN Multisite](https://github.com/datacats/ckan-multisite), a powerful new tool to launch, host, and manage dozens or even hundreds of data repository websites on a single server. [Built by DataCats](https://datacats.com/), CKAN Multisite consists of a Dockerized [CKAN](http://ckan.org/) environment and an administrative interface to manage those [Docker](https://www.docker.com/) containers. Using CKAN Multisite, creating a new data repository takes literal _seconds_ instead of hours or days (or weeks or months).

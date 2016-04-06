@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Opening Data While Prohibiting Using It'
-author: waldo
+author: waldoj
 ---
 
 An essential part of publishing data openly is doing so under a license that allows people to use that data. _Copyrighted data isn't open data._ Those two things are mutually exclusive. Government who copyright their open data are saying “here is our data, please come use it” while also saying “you may not use this data.” Doing so means that serious users of the data will be scared off before they can put it to work.

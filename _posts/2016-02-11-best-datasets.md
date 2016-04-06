@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Best-of-Breed State Datasets'
-author: waldo
+author: waldoj
 ---
 
 Having completed [our census of U.S. states’ open data holdings](https://census.usopendata.org/), we can start studying the aggregate data and drawing some conclusions. (As, indeed, can anybody, [using the raw census data](https://docs.google.com/spreadsheets/d/1OhVbryeHBsPjJ3TjjVFlfM552pDKRjiUpTAXQJe9miA/).) First up: highlighting the very best examples of each type of dataset. We include nine types of datasets in this census, and following are the states that came out on top.
