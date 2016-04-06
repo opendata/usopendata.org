@@ -22,7 +22,7 @@ Just last month came a particularly exciting development in this emerging method
 
 This is an important new vector for open data. Open data is sometimes better for government than closed data, because open data infrastructure is sometimes more advanced than closed data infrastructure.
 
-18F, the U.S. digital services team, summed it up in a tweet last week:
+[18F](https://18f.gov/), the U.S. digital services team, summed it up in a tweet last week:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In a bureaucracy the size of the US government, our experience is the most effective way to make information travel is to make it public.</p>&mdash; 18F (@18F) <a href="https://twitter.com/18F/status/715578787405176832">March 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
