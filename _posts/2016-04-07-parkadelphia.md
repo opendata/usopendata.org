@@ -8,7 +8,7 @@ Last month, [Lauren Ancona](https://laurenancona.com/) created an entirely new t
 
 ![Parkadelphia screenshot](/img/parkadelphia.png)
 
-Anaconda is the Senior Data Scientist for the City of Philadelphia, but she built this website on her own time, as a passion project. I asked Lauren a few questions about this novel form of open data.
+Ancona is the Senior Data Scientist for the City of Philadelphia, but she built this website on her own time, as a passion project. I asked her a few questions about this novel form of open data.
 
 **Where did you get the idea for Parkadelphia?**
 
