@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Open Parking Data'
+title: 'Opening Philadelphia’s Parking Data'
 author: waldoj
 ---
 
