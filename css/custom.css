@@ -159,3 +159,13 @@ article.single-post {
   }
 
 }
+
+.banner {
+  text-align: center;
+  padding: 10px 10px;
+  background-color: #000;
+  font-weight: bold;
+}
+  .banner a {
+    color: #fff;
+  }
