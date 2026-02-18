@@ -8,7 +8,7 @@
   contractor: PostLight
   contractor_url: https://www.postlight.com/
   repository: https://github.com/openaddresses/parcels
-  blog_entry: https://usopendata.org/2016/06/07/parcels/
+  blog_entry: https://usopendata-archive.org/2016/06/07/parcels/
 - title: Open Open Data Census
   description: A software package for conducting open data censuses.
   status: alpha
@@ -17,7 +17,7 @@
   description: A census of key open data holdings by states throughout the U.S.
   status: shipped
   repository: https://github.com/opendata/Open-Data-Census/
-  blog_entry: https://usopendata.org/2015/11/16/census/
+  blog_entry: https://usopendata-archive.org/2015/11/16/census/
 - title: CKAN Exporter
   description: Extending CKAN to support exporting all data, instead of just metadata.
   status: shipped
@@ -30,7 +30,7 @@
   contractor: DataCats
   contractor_url: https://datacats.com/
   repository: https://github.com/datacats/ckan-multisite/
-  blog_entry: http://usopendata.org/2015/09/14/ckan-multisite/
+  blog_entry: http://usopendata-archive.org/2015/09/14/ckan-multisite/
 - title: Free Government Data Repository
   description: A to-be-named, free, time-limited CKAN host powered by CKAN Multisite.
   status: planning
@@ -40,33 +40,33 @@
   contractor: Silicon Valley Software Group
   contractor_url: http://svsg.co/
   repository: https://github.com/opendata/lmgtdfy/
-  blog_entry: https://usopendata.org/2015/02/18/lmgtdfy/
+  blog_entry: https://usopendata-archive.org/2015/02/18/lmgtdfy/
   website: http://lmgtdfy.usopendata.org/
 - title: Business Data Tax Value Study
   description: An analysis of the financial value of open corporate data to municipal governments.
   status: shipped
-  blog_entry: https://usopendata.org/2014/12/11/business-data/
+  blog_entry: https://usopendata-archive.org/2014/12/11/business-data/
 - title: dat
   description: A version-controlled, decentralized data tool for collaboration between data people and data systems.
   status: beta
   repository: https://github.com/maxogden/dat/
-  blog_entry: https://usopendata.org/2015/07/29/dat-beta/
+  blog_entry: https://usopendata-archive.org/2015/07/29/dat-beta/
   website: http://dat-data.com/
 - title: How to Publish Open Data
   description: A practical guide to opening data, for government employees whose job it is to make that happen.
   status: alpha
   repository: https://github.com/opendata/how-to/
-  website: http://how-to.usopendata.org/
+  website: http://how-to.usopendata-archive.org/
 - title: Legal Synonyms
   description: A semantic analysis tool to generate synonym.txt files for Solr.
   status: alpha
   repository: https://github.com/opendata/Legal-Synonyms
-  blog_entry: https://usopendata.org/2014/10/10/legal_synonyms/
+  blog_entry: https://usopendata-archive.org/2014/10/10/legal_synonyms/
 - title: OpenAddresses Bounty
   description: Paying people, per pull request, to add regional address files to OpenAddresses.
   status: shipped
   repository: https://github.com/openaddresses/openaddresses/
-  blog_entry: https://usopendata.org/2014/08/01/openaddresses/
+  blog_entry: https://usopendata-archive.org/2014/08/01/openaddresses/
   website: http://openaddresses.io/
 - title: Data Seal
   description: A data-authentication service to facilitate government compliance with the Uniform Electronic Legal Material Act.
@@ -75,10 +75,10 @@
   contractor_url: http://svsg.co/
   repository: https://github.com/unitedstates/authentication/
   website: http://svsg.co/data-seal/
-  blog_entry: https://usopendata.org/2015/07/28/data-seal/
+  blog_entry: https://usopendata-archive.org/2015/07/28/data-seal/
 - title: The Roosevelt Schema
   description: Rendering hunting and fishing regulations as open data.
   status: alpha
   repository: https://github.com/opendata/Hunting-and-Fishing/
-  blog_entry: https://usopendata.org/2014/04/08/hunting/
+  blog_entry: https://usopendata-archive.org/2014/04/08/hunting/
   website: http://rooseveltschema.org/

@@ -4,7 +4,7 @@ title: 'Best-of-Breed State Datasets'
 author: waldoj
 ---
 
-Having completed [our census of U.S. states’ open data holdings](https://census.usopendata.org/), we can start studying the aggregate data and drawing some conclusions. (As, indeed, can anybody, [using the raw census data](https://docs.google.com/spreadsheets/d/1OhVbryeHBsPjJ3TjjVFlfM552pDKRjiUpTAXQJe9miA/).) First up: highlighting the very best examples of each type of dataset. We include nine types of datasets in this census, and following are the states that came out on top.
+Having completed [our census of U.S. states’ open data holdings](https://census.usopendata-archive.org/), we can start studying the aggregate data and drawing some conclusions. (As, indeed, can anybody, [using the raw census data](https://docs.google.com/spreadsheets/d/1OhVbryeHBsPjJ3TjjVFlfM552pDKRjiUpTAXQJe9miA/).) First up: highlighting the very best examples of each type of dataset. We include nine types of datasets in this census, and following are the states that came out on top.
 
 ### Incarceration
 Prison population data—how many people are held in each facility relative to capacity, and how that’s changed over time. [Connecticut does this best](https://data.ct.gov/Public-Safety/Correctional-Facility-Daily-Population-Count-By-Fa/n8x6-s299), earning a score of 95%. It falls short by being incomplete, because the dataset does not include the capacity of each facility.
@@ -22,7 +22,7 @@ Buildings and land that are owned or leased by the government. [Oklahoma earns a
 The outcome of inspections of food services facilities. [New York comes out on top here](https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw), with a score of 95%, but with a significant caveat: their licensing terms. All data that they publish on their repository is bound by [a confusing, restrictive license](https://data.ny.gov/download/77gx-ii52/application/pdf), ironically published as a PDF.
 
 ### Vehicle Crashes
-Car accidents and detailed data about the circumstances under which they occurred. [South Dakota does an excellent job here](http://safesd.gov/raw-data.html), earning a score of 90% with their detailed, pipe-delimited bulk data. They lose points for not providing any mechanism by which the public can verify that their copy of the data is accurate (e.g., [serving it over HTTPS](https://usopendata.org/2015/11/18/https/)), and by not including the data in their data repository (because South Dakota does not have a repository).
+Car accidents and detailed data about the circumstances under which they occurred. [South Dakota does an excellent job here](http://safesd.gov/raw-data.html), earning a score of 90% with their detailed, pipe-delimited bulk data. They lose points for not providing any mechanism by which the public can verify that their copy of the data is accurate (e.g., [serving it over HTTPS](https://usopendata-archive.org/2015/11/18/https/)), and by not including the data in their data repository (because South Dakota does not have a repository).
 
 ### Companies
 The state register of all companies in the state. [The state of Washington does a perfect job at this](https://www.sos.wa.gov/corps/AllData.aspx), earning a score of 100%, providing data as both tab-delimited text and as XML.

@@ -8,7 +8,7 @@ An essential part of publishing data openly is doing so under a license that all
 
 ### Findings
 
-[Our U.S. states open data census](http://census.usopendata.org/) shows that about half of all surveyed datasets are encumbered by copyright restrictions.
+[Our U.S. states open data census](http://census.usopendata-archive.org/) shows that about half of all surveyed datasets are encumbered by copyright restrictions.
 
 Of the 356 extant, surveyed datasets, 171 (or 48%) are restricted by claims of copyright. 174 (or 49%) have no restrictions. For 11 (3%) of them, it’s unclear whether they’re copyrighted or not (e.g., the link to the copyright page is broken).
 

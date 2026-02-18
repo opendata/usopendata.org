@@ -1,6 +1,6 @@
 # U.S. Open Data Site
 
-Site for [U.S. Open Data](http://usopendata.org/).
+Site for [U.S. Open Data](http://usopendata-archive.org/).
 
 ## License
 
